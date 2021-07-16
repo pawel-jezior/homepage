@@ -16,8 +16,12 @@
   text-align: center;
 }
 
-.main_link {
+.main__link {
   color: #000000;
+}
+
+.main__title {
+  color: #0c6b6b;
 }
 
 .main__picture {
