@@ -1,34 +1,28 @@
-body {
+.body {
   background: lightgray;
 }
 
-section {
-  background: #ffffff;
+.footer {
+  background: navy;
+  color: whitesmoke;
 }
 
-h1 {
-  color: blue;
-}
-
-h2 {
-  color: #0f504b;
-}
-
-.tomato-bg {
-  background: tomato;
-}
-
-main a {
-  color: rgb(255, 0, 0);
-}
-
-.main-width {
+.main {
   width: 600px;
   border: rgb(0, 0, 0) 5px solid;
   border-radius: 10px;
   padding: 20px;
   margin: auto;
   text-align: center;
+}
+
+.main_link {
+  color: #000000;
+}
+
+.main__picture {
+  border: rgb(19, 0, 192) 5px solid;
+  border-radius: 20px;
 }
 
 .navigation-center {
@@ -40,7 +34,7 @@ main a {
   padding: 20px;
 }
 
-.link {
+.navigation-center__link {
   color: black;
   border: #fff 3px solid;
   border-radius: 5px;
@@ -49,6 +43,18 @@ main a {
   margin: 10px;
 }
 
-.link__homepage {
+.navigation-center__link--homepage {
   color: #cf0000;
+}
+
+.section {
+  background: #ffffff;
+}
+
+.section__article {
+  background: navajowhite;
+}
+
+.section__title {
+  background: tomato;
 }
