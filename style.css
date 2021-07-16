@@ -21,3 +21,33 @@ h2 {
 main a {
   color: rgb(255, 0, 0);
 }
+
+.main-width {
+  width: 600px;
+  border: rgb(0, 0, 0) 5px solid;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+.navigation-center {
+  margin: auto;
+  border: tomato 3px solid;
+  border-radius: 7px;
+  text-align: center;
+  background: tomato;
+  padding: 10px;
+  
+}
+
+.link {
+  color: black;
+  border: #fff 3px solid;
+  border-radius: 5px;
+  padding: 5px;
+  background: #fff;
+}
+
+.link__homepage {
+  color: #cf0000;
+}
