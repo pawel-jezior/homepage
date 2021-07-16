@@ -1,23 +1,23 @@
 body {
-    background: lightgray;
+  background: lightgray;
 }
 
 section {
-    background: #ffffff;
+  background: #ffffff;
 }
 
 h1 {
-    color: blue;
+  color: blue;
 }
 
 h2 {
-    color: #0f504b;
+  color: #0f504b;
 }
 
 .tomato-bg {
-    background: tomato;
+  background: tomato;
 }
 
 main a {
-    color: rgb(255, 0, 0);
+  color: rgb(255, 0, 0);
 }
