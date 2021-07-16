@@ -5,6 +5,9 @@
 .footer {
   background: navy;
   color: whitesmoke;
+  border: #fff 2px solid;
+  border-radius: 3px;
+  margin: 5px;
 }
 
 .main {
@@ -53,10 +56,22 @@
 
 .section {
   background: #ffffff;
+  border: #482837 3px solid;
+  border-radius: 10px;
+
+  margin: 15px;
 }
 
 .section__article {
   background: navajowhite;
+}
+
+.section__article--description {
+  background: orangered;
+}
+
+.section__article--title {
+  background: orange;
 }
 
 .section__title {
