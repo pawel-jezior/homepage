@@ -25,18 +25,19 @@ main a {
 .main-width {
   width: 600px;
   border: rgb(0, 0, 0) 5px solid;
+  border-radius: 10px;
   padding: 20px;
   margin: auto;
   text-align: center;
 }
 
 .navigation-center {
-  margin: auto;
+  margin: 10px;
   border: tomato 3px solid;
   border-radius: 7px;
   text-align: center;
   background: tomato;
-  padding: 10px;
+  padding: 20px;
   
 }
 
@@ -46,6 +47,7 @@ main a {
   border-radius: 5px;
   padding: 5px;
   background: #fff;
+  margin: 10px;
 }
 
 .link__homepage {
