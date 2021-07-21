@@ -13,5 +13,5 @@ const mainTitle = document.querySelector('.main__title--js');
 
 console.log(mainTitle);
 
-mainTitle.innerHTML = `Cześć to po angielsku ${helloInConsole}, a to jest jakas liczba - ${someNumber} :)`
+mainTitle.innerHTML = `Cześć to po angielsku ${helloInConsole}, a to jest jakas liczba - ${someNumber} :)`;
 
