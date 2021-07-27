@@ -19,7 +19,8 @@
   text-align: center;
 }
 
-.main__header {}
+.main__header {
+}
 
 .main__link {
   color: #000000;
@@ -38,7 +39,6 @@
   margin: 10px;
   border: tomato 3px solid;
   border-radius: 7px;
-  text-align: center;
   background: tomato;
   padding: 20px;
 }
@@ -49,7 +49,11 @@
   border-radius: 5px;
   padding: 5px;
   background: #fff;
+  max-width: 200px;
   margin: 10px;
+  min-width: 150px;
+  justify-content: center;
+  display: flex;
 }
 
 .navigation-center__link--homepage {
