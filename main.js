@@ -40,3 +40,12 @@ console.log(
 );
 
 console.log(whiteTable.ownerData.ownerAge);
+
+const buttonMenuMobile = document.querySelector(".button__menu--js");
+
+buttonMenuMobile.addEventListener('click', () => { 
+  const standardMenu = document.querySelector(".navigation__links_div");
+  standardMenu.classList.toggle('navigation__links__open');
+
+})
+
