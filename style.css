@@ -145,3 +145,10 @@
 .section__title {
   background: tomato;
 }
+
+@media screen and (max-width: 768px){
+  .body {
+    background: hotpink;
+  }
+  
+}
