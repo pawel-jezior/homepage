@@ -1,0 +1,25 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "sass": "npx node-sass -w scss/main.scss style.css",
+    "cow": "npx cowsay SIEMA",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawel-jezior/homepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawel-jezior/homepage/issues"
+  },
+  "homepage": "https://github.com/pawel-jezior/homepage#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
