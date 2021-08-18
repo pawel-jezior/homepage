@@ -109,14 +109,14 @@
     background: tomato; }
     .section__title::before {
       content: "";
-      display: block;
+      display: inline-block;
       min-height: 10px;
       width: 10px;
       background: greenyellow;
       border-radius: 50%; }
     .section__title::after {
       content: "";
-      display: block;
+      display: inline-block;
       min-height: 10px;
       width: 10px;
       border-radius: 50%;
